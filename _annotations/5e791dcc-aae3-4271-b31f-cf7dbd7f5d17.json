@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cx001-01/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "P\u00e3o de A\u00e7\u00facar",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-23T16:50:49.911Z",
+            "modified": "2021-08-23T16:50:53.671Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cx001-01/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"615.0371704101562,1264.3525390625 1469.19189453125,627.916259765625 1985.915283203125,760.7919921875 2169.548828125,1464.5205078125 2148.303466796875,1732.211669921875 2339.234375,2357.286376953125 2566.51318359375,2873.501708984375 37.302730560302734,2934.466552734375 50.142303466796875,2104.189697265625 385.8647155761719,1664.8731689453125 490.6596374511719,1381.848388671875 628.2924194335938,1268.878662109375 627.553466796875,1263.844482421875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cx001-01",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/5e791dcc-aae3-4271-b31f-cf7dbd7f5d17.json"
+}
