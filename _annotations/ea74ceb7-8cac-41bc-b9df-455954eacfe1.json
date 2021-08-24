@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Igreja Nossa Senhora da Gl\u00f3ria",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T17:58:43.583Z",
+            "modified": "2021-08-24T17:58:49.456Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"6125.08056640625,6316.8671875 7011.0224609375,6598.58251953125 7257.9443359375,6384.84423828125 7209.7802734375,6056.96484375 6893.31982421875,5881.97265625 6529.86669921875,5790.9140625 6493.90185546875,5468.40283203125 6397.71923828125,5472.453125 6398.939453125,5222.26171875 6314.712890625,5002.9599609375 6205.98876953125,5251.97998046875 6215.1142578125,5526.27783203125 6107.9033203125,5526.27783203125 6113.22265625,6246.35302734375 6123.51904296875,6257.43017578125 6122.05517578125,6254.990234375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/ea74ceb7-8cac-41bc-b9df-455954eacfe1.json"
+}
