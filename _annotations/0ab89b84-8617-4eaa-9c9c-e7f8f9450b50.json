@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio4-05/canvas/p1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Morro de Santo Ant\u00f4nio",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:10:23.755Z",
+            "modified": "2021-08-24T18:10:27.371Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio4-05/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"9562.33203125,1173.7701416015625 7980.24072265625,1224.957763671875 6147.80224609375,1491.49951171875 5121.013671875,1554.5440673828125 4625.57373046875,1909.6278076171875 5873.25927734375,1594.4049072265625 6385.2314453125,1847.01708984375 9574.189453125,2010.7498779296875 9570.57421875,2004.6285400390625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio4-05",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/0ab89b84-8617-4eaa-9c9c-e7f8f9450b50.json"
+}
