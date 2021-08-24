@@ -1,0 +1,34 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-02/canvas/p1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Pedra da G\u00e1vea",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T17:55:51.659Z",
+            "modified": "2021-08-24T17:55:55.161Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-02/canvas/p1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:7580.17822265625,3213.3701171875,634.21533203125,353.698974609375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-02",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/c57a1d01-9db4-4b91-8702-e8445584e717.json"
+}
