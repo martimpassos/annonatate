@@ -1,0 +1,34 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio4-05/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Imprensa Nacional",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:08:23.300Z",
+            "modified": "2021-08-24T18:08:27.737Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio4-05/canvas/p1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2532.954833984375,943.31689453125,4976.619384765625,4237.91796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio4-05",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/4c5ca939-3728-4b11-8bb4-2bf5ad7961df.json"
+}
