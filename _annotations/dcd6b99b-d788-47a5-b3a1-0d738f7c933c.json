@@ -1,0 +1,34 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-05/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rua Direita",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:12:58.667Z",
+            "modified": "2021-08-24T18:13:00.142Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05/canvas/p1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2047.21875,7345.04248046875,79.41357421875,61.83642578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/dcd6b99b-d788-47a5-b3a1-0d738f7c933c.json"
+}
