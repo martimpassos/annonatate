@@ -21,7 +21,7 @@ order: 1
         "source": "https://images.imaginerio.org/iiif/2/001AAN005126/canvas/p1",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"2077.5,1570 3372.2,821.1 9001.9,828.7 9022,4804.2 566.5,4814.3 586.4,2460.1 948.5,2260.4 1383.1,1451 1569.1,1488.5 1826.4,1533.9\"></polygon></svg>"
+            "value": "<svg><polygon points=\"2077.5,1570 3372.2,821.1 9001.9,828.7 9022,4804.2 566.5,4814.3 586.4,2460.1 948.5,2260.4 1383.1,1451 1630,1493.8 1826.4,1533.9\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://martimpassos.github.io/annonatate/manifests/001AAN005126/manifest.json",
