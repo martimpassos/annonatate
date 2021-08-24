@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Fortaleza de Santa Cruz da Barra",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:03:03.548Z",
+            "modified": "2021-08-24T18:03:04.578Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1213.195556640625,3589.764892578125 1618.5823974609375,3588.36767578125 1602.9327392578125,3496.1904296875 1503.2738037109375,3471.936279296875 1357.55810546875,3475.3388671875 1207.2435302734375,3497.710205078125 1191.8243408203125,3569.41357421875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/a3a5b803-d24e-4dd5-b2ed-9bac52e24847.json"
+}
