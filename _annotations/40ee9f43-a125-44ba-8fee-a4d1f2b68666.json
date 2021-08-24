@@ -3,31 +3,31 @@ canvas: "https://images.imaginerio.org/iiif/2/0071824cx001-01/canvas/p1"
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Fortaleza de Santa Cruz da Barra",
-            "purpose": "tagging",
+            "created": "2021-08-23T16:51:22.280Z",
             "creator": {
                 "id": "martimpassos",
                 "name": "Martim Passos"
             },
-            "created": "2021-08-23T16:51:22.280Z",
-            "modified": "2021-08-23T16:51:29.120Z"
+            "modified": "2021-08-23T16:51:29.120Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Fortaleza de Santa Cruz da Barra"
         }
     ],
+    "id": "https://martimpassos.github.io/annonatate/annotations/40ee9f43-a125-44ba-8fee-a4d1f2b68666.json",
     "target": {
         "source": "https://images.imaginerio.org/iiif/2/0071824cx001-01/canvas/p1",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"5770.7,3492.8 5780.1,2839.7 5997.7,2814.5 6198.7,3039.2 7107,2844.1 9228.8,2945.8 9201.9,6952.7 3798.6,6988.2 5423.7,5416.9 5416.1,5413.9\"></polygon></svg>"
+            "value": "<svg><polygon points=\"5780.8,3523.4 5790.2,2870.3 6007.8,2845.1 6208.8,3069.8 7117.1,2874.7 9238.9,2976.4 9212,6983.3 3808.7,7018.8 4480.6,6200.2 5369.4,5485.1\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://images.imaginerio.org/iiif/2/0071824cx001-01",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/40ee9f43-a125-44ba-8fee-a4d1f2b68666.json"
+    "type": "Annotation"
 }
