@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-05/canvas/p1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Correios",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:13:39.306Z",
+            "modified": "2021-08-24T18:13:41.192Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"5460.4658203125,1247.0870361328125 3606.44580078125,3135.300048828125 3622.342041015625,7412.9443359375 7419.40087890625,8986.087890625 7385.27294921875,1250.1365966796875 7377.16259765625,1239.5606689453125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/56907521-f1e9-4331-8f31-5f13b65f8a24.json"
+}
