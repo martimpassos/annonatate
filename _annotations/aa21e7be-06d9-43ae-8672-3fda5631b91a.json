@@ -1,0 +1,34 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-09/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Passeio P\u00fablico",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:15:17.886Z",
+            "modified": "2021-08-24T18:15:20.056Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-09/canvas/p1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:4837.7734375,5979.33935546875,51.85888671875,71.8046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-09",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/aa21e7be-06d9-43ae-8672-3fda5631b91a.json"
+}
