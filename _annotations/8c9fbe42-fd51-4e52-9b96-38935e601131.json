@@ -1,0 +1,34 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-05/canvas/p1"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Banco Nacional",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T18:14:40.835Z",
+            "modified": "2021-08-24T18:14:44.147Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05/canvas/p1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1458.313232421875,4681.4169921875,604.121826171875,2184.3369140625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/8c9fbe42-fd51-4e52-9b96-38935e601131.json"
+}
