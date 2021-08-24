@@ -22,7 +22,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:2047.21875,7345.04248046875,79.41357421875,61.83642578125"
+            "value": "xywh=pixel:2047.21875,7345.04248046875,14.109130859375,13.63916015625"
         },
         "dcterms:isPartOf": {
             "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-05",
