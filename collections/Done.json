@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Done",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://martimpassos.github.io/annonatate/annotations/2-001aan005126-p1-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
