@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/001AAN005126/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Quartel Central do Corpo de Bombeiros",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T17:26:56.812Z",
+            "modified": "2021-08-24T17:27:04.313Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/001AAN005126/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2077.513916015625,1569.9884033203125 3372.154052734375,821.114501953125 6501.412109375,849.64892578125 6505.1171875,4934.10400390625 611.2830810546875,4989.79638671875 586.3731689453125,2460.1005859375 950.365234375,2215.92822265625 1383.0960693359375,1450.9732666015625 1394.9598388671875,1455.8212890625 1386.72216796875,1449.9879150390625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://martimpassos.github.io/annonatate/manifests/001AAN005126/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/02a33bb7-4534-419d-b448-edfce8667df6.json"
+}
