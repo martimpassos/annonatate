@@ -3,32 +3,32 @@ canvas: "https://images.imaginerio.org/iiif/2/0071824cx001-02/canvas/p1"
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "P\u00e3o de A\u00e7\u00facar",
-            "purpose": "tagging",
+            "created": "2021-08-24T13:57:42.615Z",
             "creator": {
                 "id": "martimpassos",
                 "name": "Martim Passos"
             },
-            "created": "2021-08-24T13:57:42.615Z",
-            "modified": "2021-08-24T13:57:43.471Z"
+            "modified": "2021-08-24T13:57:43.471Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "P\u00e3o de A\u00e7\u00facar"
         }
     ],
+    "id": "https://martimpassos.github.io/annonatate/annotations/27c22430-3811-4d78-b4e2-66981397385f.json",
     "target": {
         "source": "https://images.imaginerio.org/iiif/2/0071824cx001-02/canvas/p1",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:3418.633544921875,1680.2532958984375,2486.773681640625,2372.0838623046875"
+            "value": "xywh=pixel:3418.633544921875,1680.2532958984375,2454.950927734375,1686.1131591796875"
         },
         "dcterms:isPartOf": {
             "id": "https://images.imaginerio.org/iiif/2/0071824cx001-02",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/27c22430-3811-4d78-b4e2-66981397385f.json"
+    "type": "Annotation"
 }
