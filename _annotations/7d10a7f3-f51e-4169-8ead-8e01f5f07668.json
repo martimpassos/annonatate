@@ -1,0 +1,33 @@
+---
+canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Morro Cara de C\u00e3o",
+            "purpose": "tagging",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2021-08-24T17:59:18.574Z",
+            "modified": "2021-08-24T17:59:21.841Z"
+        }
+    ],
+    "target": {
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3172.460693359375,3781.77001953125 5931.10546875,3747.122802734375 5290.27978515625,3454.91552734375 4913.6015625,3399.77294921875 4538.3388671875,3453.061279296875 4280.291015625,3373.323974609375 3935.966552734375,3373.323974609375 3597.547119140625,3518.54931640625 3152.453125,3653.08740234375 3095.163330078125,3707.107666015625 3086.379638671875,3706.522216796875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/7d10a7f3-f51e-4169-8ead-8e01f5f07668.json"
+}
