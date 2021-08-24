@@ -21,7 +21,7 @@ order: 4
         "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04/canvas/p1",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"997.7229614257812,3734.7060546875 1200.1982421875,3732.127197265625 1198.6195068359375,3671.832763671875 995.9285888671875,3669.445068359375 986.323974609375,3704.7353515625\"></polygon></svg>"
+            "value": "<svg><polygon points=\"1010.7,3731.1 1188,3731.2 1201.6,3676.8 1079.3,3661.1 971.5,3697.7\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-04",
