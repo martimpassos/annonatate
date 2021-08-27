@@ -3,32 +3,32 @@ canvas: "https://images.imaginerio.org/iiif/2/0071824cxrio3-02/canvas/p1"
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Corcovado",
-            "purpose": "tagging",
+            "created": "2021-08-24T17:51:43.865Z",
             "creator": {
                 "id": "martimpassos",
                 "name": "Martim Passos"
             },
-            "created": "2021-08-24T17:51:43.865Z",
-            "modified": "2021-08-24T17:51:45.247Z"
+            "modified": "2021-08-24T17:51:45.247Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Corcovado"
         }
     ],
+    "id": "https://martimpassos.github.io/annonatate/annotations/189357ec-b259-47e5-a023-f673231c1146.json",
     "target": {
-        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-02/canvas/p1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:7640.27392578125,2708.234375,2048.00732421875,1234.8759765625"
-        },
         "dcterms:isPartOf": {
             "id": "https://images.imaginerio.org/iiif/2/0071824cxrio3-02",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:7640.27392578125,2708.234375,2048.00732421875,1234.8759765625"
+        },
+        "source": "https://images.imaginerio.org/iiif/2/0071824cxrio3-02/canvas/p1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/189357ec-b259-47e5-a023-f673231c1146.json"
+    "type": "Annotation"
 }
