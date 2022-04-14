@@ -1,0 +1,33 @@
+---
+canvas: "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Pedra do Cagalh\u00e3o de Gigante",
+            "creator": {
+                "id": "martimpassos",
+                "name": "Martim Passos"
+            },
+            "created": "2022-04-14T19:36:57.705Z"
+        }
+    ],
+    "target": {
+        "source": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4687.7,4453.1 5515.6,4484.6 7789.7,4365 7926,4011.7 7740.1,3788.6 7479.8,3249.4 7393,2902.3 7349.6,2797 7448.8,2189.6 7349.6,1885.9 7101.7,1774.3 6860,1799.1 6469.5,1929.3 6072.9,2338.3 5558.4,2567.6 4587.4,3923.8 4559.7,4034.5 4321,4428.9\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-02/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dbcc6dca-a30c-404b-bac4-fd0e0d55c0bd.json",
+    "motivation": "commenting"
+}
