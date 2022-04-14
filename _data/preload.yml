@@ -6,3 +6,4 @@ manifests:
 - https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-05/manifest.json
 - https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-09/manifest.json
 - https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio4-05/manifest.json
+settings: {}
