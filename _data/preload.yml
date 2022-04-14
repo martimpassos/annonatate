@@ -1,8 +1,8 @@
 images:
 - ''
 manifests:
-- https://images.imaginerio.org/iiif/2/0071824cxrio3-02
-- https://images.imaginerio.org/iiif/2/0071824cxrio3-04
-- https://images.imaginerio.org/iiif/2/0071824cxrio3-05
-- https://images.imaginerio.org/iiif/2/0071824cxrio3-09
-- https://images.imaginerio.org/iiif/2/0071824cxrio4-05
+- https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-02/manifest.json
+- https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-04/manifest.json
+- https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-05/manifest.json
+- https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio3-09/manifest.json
+- https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/0071824cxrio4-05/manifest.json
